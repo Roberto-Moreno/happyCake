@@ -1,16 +1,14 @@
 {
   "files": {
-    "main.css": "/happycake/static/css/main.073c9b0a.css",
-    "main.js": "/happycake/static/js/main.bb68a912.js",
-    "static/js/787.bea14d28.chunk.js": "/happycake/static/js/787.bea14d28.chunk.js",
-    "static/media/logo.svg": "/happycake/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/happycake/static/css/main.44f8b8b5.css",
+    "main.js": "/happycake/static/js/main.6304289a.js",
+    "static/media/pastel.PNG": "/happycake/static/media/pastel.115bc2aa6ae592bb37c9.PNG",
     "index.html": "/happycake/index.html",
-    "main.073c9b0a.css.map": "/happycake/static/css/main.073c9b0a.css.map",
-    "main.bb68a912.js.map": "/happycake/static/js/main.bb68a912.js.map",
-    "787.bea14d28.chunk.js.map": "/happycake/static/js/787.bea14d28.chunk.js.map"
+    "main.44f8b8b5.css.map": "/happycake/static/css/main.44f8b8b5.css.map",
+    "main.6304289a.js.map": "/happycake/static/js/main.6304289a.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.bb68a912.js"
+    "static/css/main.44f8b8b5.css",
+    "static/js/main.6304289a.js"
   ]
 }
